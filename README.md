@@ -1,4 +1,4 @@
-# src
+# multipath
 
 [![Source Code](https://img.shields.io/badge/github-source%20code-blue?logo=github&logoColor=white)](https://github.com/rolehippie/multipath) [![Build Status](https://img.shields.io/drone/build/rolehippie/multipath/master?logo=drone)](https://cloud.drone.io/rolehippie/multipath) [![License: Apache-2.0](https://img.shields.io/github/license/rolehippie/multipath)](https://github.com/rolehippie/multipath/blob/master/LICENSE) 
 
