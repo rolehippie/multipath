@@ -20,6 +20,8 @@
 # None
 # @end
 galaxy_info:
+  role_name: multipath
+  namespace: rolehippie
   author: Thomas Boerger
   description: Ansible role to primary purge multipathd if not required
   license: Apache-2.0
