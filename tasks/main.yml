@@ -1,4 +1,3 @@
-# Standards: 1.2
 ---
 - name: Purge multipath package
   when: multipath_purge
