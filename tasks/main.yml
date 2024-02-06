@@ -1,7 +1,7 @@
 ---
 - name: Purge multipath package
   when: multipath_purge
-  apt:
+  ansible.builtin.apt:
     name: multipath-tools
     purge: True
     state: absent
