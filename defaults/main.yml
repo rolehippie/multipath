@@ -1,5 +1,5 @@
 ---
 # @var multipath_purge:description: Purge all multipathd packages and dependencies
-multipath_purge: True
+multipath_purge: true
 
 ...

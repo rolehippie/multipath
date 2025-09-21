@@ -1,4 +1,4 @@
-# workspace
+# multipath
 
 [![Source Code](https://img.shields.io/badge/github-source%20code-blue?logo=github&logoColor=white)](https://github.com/rolehippie/multipath)
 [![General Workflow](https://github.com/rolehippie/multipath/actions/workflows/general.yml/badge.svg)](https://github.com/rolehippie/multipath/actions/workflows/general.yml)
