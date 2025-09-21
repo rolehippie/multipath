@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/rolehippie/multipath/compare/v2.0.0...v2.1.0) (2025-09-21)
+
+
+### Features
+
+* apply new repo structure and update linting ([ddf6c32](https://github.com/rolehippie/multipath/commit/ddf6c32a4508a0e5b4da7d35431d0d7ced20237d))
+
 ## [2.0.0](https://github.com/rolehippie/multipath/compare/v1.1.0...v2.0.0) (2024-02-12)
 
 
